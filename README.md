@@ -37,4 +37,4 @@ EXAMPLE: 3 + 5 x 6 - 2 / 4 =
 Immediate Execution Logic: 11.5
 Formula/Expression Logic: 32.5
 
-You can view the GH Page [Here](https://unlimited-element.github.io/React-JS-Calculator/)
+## You can view the GH Page [Here](https://unlimited-element.github.io/React-JS-Calculator/)
